@@ -1,0 +1,4 @@
+[Level:INFO] com.liang.log4j_demo.service.DailyLogTest.main(DailyLogTest.java:18)this is a log with info level...  [Time:2016-06-07 23:11:25.488]
+[Level:WARN] com.liang.log4j_demo.service.DailyLogTest.main(DailyLogTest.java:21)this is a log with warn level...  [Time:2016-06-07 23:11:25.492]
+[Level:ERROR] com.liang.log4j_demo.service.DailyLogTest.main(DailyLogTest.java:24)this is a log with error level...  [Time:2016-06-07 23:11:25.492]
+[Level:FATAL] com.liang.log4j_demo.service.DailyLogTest.main(DailyLogTest.java:27)this is a log with fatal level...  [Time:2016-06-07 23:11:25.492]
